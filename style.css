@@ -1,1 +1,6 @@
-
+* {
+ background-image: url("top.png")
+}
+h1 {
+  color: white;
+}
